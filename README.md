@@ -51,9 +51,9 @@
 </div>
 
 ### :fire: My Stats (Personal Account. School Account is private but I can provide details upon request.) :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunt-Tynch&bg_color=90%2CADEBE1%2C4FA5FF&layout=donut-vertical&text_color=FEFF9C)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hunt-Tynch&border_radius=0&background=90%2CADEBE1%2C002CEB&currStreakLabel=FEFF9C&ring=FEFF9C&fire=FEFF9C&border=ADADAD&stroke=FEFF9C)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunt-Tynch&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
