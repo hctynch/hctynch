@@ -27,7 +27,7 @@
     📰 Degree : Bachelors of Computer Science 💻
   </h3>
   <h3>
-    Current Project: Score Tracking software for Master's Foxhunters Association 🦊
+    Upcoming Project: TMS system
   </h3>
 </div>
 
