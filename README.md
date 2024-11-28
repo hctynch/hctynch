@@ -31,10 +31,12 @@
   </h3>
 </div>
 
-  ---
-  ## Metrics
-  
-  ### :hammer_and_wrench: Languages and Tools :
+---
+
+## Metrics
+
+### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
@@ -48,12 +50,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="RaspberryPi" **alt="RaspberryPi" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="ArchLinux" **alt="ArchLinux" width="60" height="60"/>
 </div>
 
 ### :fire: My Stats (Personal Account. School Account is private but I can provide details upon request.) :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunt-Tynch&bg_color=90%2CADEBE1%2C4FA5FF&layout=donut-vertical&text_color=FEFF9C)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hunt-Tynch&border_radius=0&background=90%2CADEBE1%2C002CEB&currStreakLabel=FEFF9C&ring=FEFF9C&fire=FEFF9C&border=ADADAD&stroke=FEFF9C)](https://git.io/streak-stats)
-
-
-
-
