@@ -57,5 +57,9 @@
 
 ### :fire: My Stats (Personal Account. School Account is private but I can provide details upon request.) :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hctynch&bg_color=90%2CADEBE1%2C4FA5FF&layout=donut-vertical&text_color=FEFF9C)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hctynch&border_radius=0&background=90%2CADEBE1%2C002CEB&currStreakLabel=FEFF9C&ring=FEFF9C&fire=FEFF9C&border=ADADAD&stroke=FEFF9C)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hctynch&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=hctynch&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
