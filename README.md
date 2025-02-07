@@ -27,7 +27,7 @@
     📰 Degree : Bachelors of Computer Science 💻
   </h3>
   <h3>
-    Upcoming Project: ...
+    Current Project: ML Audio Data Routing Model
   </h3>
 </div>
 
