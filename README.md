@@ -57,7 +57,7 @@
 
 ### :fire: My Stats (Personal Account. School Account is private but I can provide details upon request.) :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hctynch&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hctynch&theme=tokyonight&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <div>
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=hctynch&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
