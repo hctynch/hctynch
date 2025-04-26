@@ -61,15 +61,15 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctynch&theme=tokyonight&langs_count=8&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctynch&theme=dark&langs_count=8&layout=pie" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=hctynch&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=hctynch&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hctynch&show_icons=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hctynch&show_icons=true&bg_color=00000000&theme=dark"/>
 </p>
 
 
